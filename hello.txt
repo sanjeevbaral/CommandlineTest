@@ -1,2 +1,3 @@
 hello world--
 testing direct commit to master
+a new line added from GitText2 repo
